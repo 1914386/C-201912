@@ -1,0 +1,5 @@
+﻿  src2.cpp
+C:\project\1127\1127\src2.cpp(52,10): warning C4477:  'printf' : 서식 문자열 '%3g'에 'double' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'int'입니다.
+C:\project\1127\1127\src2.cpp(19,6): warning C4101:  'j' :참조되지 않은 지역 변수입니다.
+C:\project\1127\1127\src2.cpp(20,6): warning C4101:  'temp' :참조되지 않은 지역 변수입니다.
+  1127.vcxproj -> C:\project\1127\Debug\1127.exe

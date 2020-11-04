@@ -1,0 +1,2 @@
+﻿  mid.c
+C:\project\midtest\midtest\mid.c(14): error C4700:  초기화되지 않은 'sum' 지역 변수를 사용했습니다.

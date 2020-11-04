@@ -1,0 +1,4 @@
+﻿  december.cpp
+C:\project\1202\1202\december.cpp(146,10): warning C4101:  'err' :참조되지 않은 지역 변수입니다.
+C:\project\1202\1202\december.cpp(145,7): warning C4101:  'buffer' :참조되지 않은 지역 변수입니다.
+  1202.vcxproj -> C:\project\1202\Debug\1202.exe
